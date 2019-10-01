@@ -3,7 +3,7 @@ A sample app for demonstrating biometric prompt provided from Android P (API 28)
 
 Introduction
 ------------
-This sample demonstrates how you can use system provided biometric authentication.
+This sample demonstrates how you can use system provided biometric authentication when init the app.
 
 FingerprintManager is now deprecated and the apps need to implement the BiometricPrompt instead.
 
